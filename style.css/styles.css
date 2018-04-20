@@ -15,9 +15,9 @@ body {
 
 .submit {
     background: #285af2;
-    font-size: 25px;
+    font-size: 21px;
     color: #fff;
     border-radius: 5%;
     border: 1px solid #285af2;
-    padding: 10px;
+    padding: 7px 5px 5px;
 }
